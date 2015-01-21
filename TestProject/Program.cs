@@ -14,6 +14,10 @@ namespace TestProject
             Console.WriteLine("Exploring git hub");
         }
 
+        static void m()
+        {
+            //added for branch
+        }
 
     }
 }
